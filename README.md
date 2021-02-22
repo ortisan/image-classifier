@@ -44,7 +44,7 @@ You need provides an json with the schema:
    jupyter notebook notebooks
    ```
 2. Example:
-   **CandleStickClassification.ipynb**
+   **[CandleStickClassification.ipynb](https://github.com/tentativafc/image-classifier/blob/main/notebooks/CandleStickClassification.ipynb)**
 
 ### TODO
 
