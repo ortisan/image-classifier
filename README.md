@@ -37,6 +37,15 @@ You need provides an json with the schema:
 1. Run your classifier: http://localhost:8000/classifier
 
 
+### Analysis:
+
+1. Run your analysis:
+   ```sh
+   jupyter notebook notebooks
+   ```
+2. Example:
+   **CandleStickClassification.ipynb**
+
 ### TODO
 
 UX like Recaptcha.
