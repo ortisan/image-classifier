@@ -33,6 +33,7 @@ You need provides an json with the schema:
    ```sh
    python manage.py runserver
    ```
+1. Put yours image and a json file into **classifier/static/classify_data** folder
 
 1. Run your classifier: http://localhost:8000/classifier
 
